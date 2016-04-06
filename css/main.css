@@ -319,7 +319,9 @@ pre {
  * Software
  */
 .logo {
-  width: 400px; }
+  width: 100%;
+  margin-bottom: 60px;
+}
 
 /**
  * Software overview page
@@ -477,5 +479,5 @@ pre {
 }
 
 h1 {
-  text-align: center;
+/*  text-align: center; */
 }
